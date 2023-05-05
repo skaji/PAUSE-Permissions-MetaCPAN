@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/skaji/PAUSE-Permissions-MetaCPAN.svg?branch=master)](https://travis-ci.org/skaji/PAUSE-Permissions-MetaCPAN)
+[![Actions Status](https://github.com/skaji/PAUSE-Permissions-MetaCPAN/actions/workflows/test.yml/badge.svg)](https://github.com/skaji/PAUSE-Permissions-MetaCPAN/actions)
 
 # NAME
 
@@ -78,7 +78,7 @@ It returns a hash reference that contains module permissions.
 
 # SEE ALSO
 
-- [PAUSE::Permissions](https://metacpan.org/pod/PAUSE::Permissions)
+- [PAUSE::Permissions](https://metacpan.org/pod/PAUSE%3A%3APermissions)
 - [https://fastapi.metacpan.org/](https://fastapi.metacpan.org/)
 
 # AUTHOR

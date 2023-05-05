@@ -20,7 +20,7 @@ subtest modules => sub {
     is scalar(keys %$perm), 3;
     ok exists $perm->{$_} for 'LWP::UserAgent', 'NotExists', 'Moose';
     ok !$perm->{NotExists};
-    is $perm->{'LWP::UserAgent'}{owner}, 'LWWWP';
+    is $perm->{'LWP::UserAgent'}{owner}, 'OALDERS';
     is $perm->{Moose}{owner}, 'STEVAN';
 };
 
