@@ -4,4 +4,4 @@ prereqs:
       HTTP::Tiny: { version: '0.055' }
       IO::Socket::SSL: { version: '1.42' }
       JSON::PP:
-      perl: { version: '5.008001' }
+      perl: { version: 'v5.16' }
