@@ -1,4 +1,4 @@
-package PAUSE::Permissions::MetaCPAN 0.001;
+package PAUSE::Permissions::MetaCPAN 0.100;
 use v5.16;
 use warnings;
 
