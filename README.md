@@ -1,5 +1,3 @@
-[![Actions Status](https://github.com/skaji/PAUSE-Permissions-MetaCPAN/actions/workflows/test.yml/badge.svg)](https://github.com/skaji/PAUSE-Permissions-MetaCPAN/actions)
-
 # NAME
 
 PAUSE::Permissions::MetaCPAN - get module permissions from MetaCPAN API
