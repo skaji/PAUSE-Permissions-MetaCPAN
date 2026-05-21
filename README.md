@@ -79,9 +79,12 @@ It returns a hash reference that contains module permissions.
 - [PAUSE::Permissions](https://metacpan.org/pod/PAUSE%3A%3APermissions)
 - [https://fastapi.metacpan.org/](https://fastapi.metacpan.org/)
 
-# AUTHOR
+# ARTIFACT ATTESTATIONS
 
-Shoichi Kaji <skaji@cpan.org>
+GitHub Artifact Attestations are generated for release tarballs uploaded to
+CPAN. If you care about provenance for the uploaded tarballs, see:
+
+[https://github.com/skaji/PAUSE-Permissions-MetaCPAN/attestations](https://github.com/skaji/PAUSE-Permissions-MetaCPAN/attestations)
 
 # COPYRIGHT AND LICENSE
 
