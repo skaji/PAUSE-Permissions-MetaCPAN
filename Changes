@@ -1,6 +1,6 @@
 Revision history for PAUSE-Permissions-MetaCPAN
 
-{{$NEXT}}
+v1.0.0  2026-05-23
   - Raise minimum Perl to v5.24
 
 0.100  2023-05-05 09:23:57 JST
